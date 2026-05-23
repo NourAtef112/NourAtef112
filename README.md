@@ -146,7 +146,7 @@ I learn by doing. I pick up new stacks and techniques in parallel with shipping,
 <br/>
 
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NourAtef112&theme=radical)&nbsp;
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NourAtef112&theme=vue-dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NourAtef112&theme=dracula)
 
 </div>
 
