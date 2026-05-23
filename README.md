@@ -136,12 +136,17 @@ I learn by doing. I pick up new stacks and techniques in parallel with shipping,
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourAtef112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF7B2C&text_color=c9d1d9)&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourAtef112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NourAtef112&theme=tokyonight)
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NourAtef112&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=FF7B2C&point=FFFFFF)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NourAtef112&theme=tokyonight)&nbsp;
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NourAtef112&theme=tokyonight&utcOffset=2)
+
+<br/>
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NourAtef112&theme=tokyonight)&nbsp;
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NourAtef112&theme=tokyonight)
 
 </div>
 
