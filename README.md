@@ -136,17 +136,17 @@ I learn by doing. I pick up new stacks and techniques in parallel with shipping,
 
 <br/>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NourAtef112&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NourAtef112&theme=github_dark)
 
 <br/>
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NourAtef112&theme=tokyonight)&nbsp;
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NourAtef112&theme=tokyonight&utcOffset=2)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NourAtef112&theme=dracula)&nbsp;
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NourAtef112&theme=nord_dark&utcOffset=2)
 
 <br/>
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NourAtef112&theme=tokyonight)&nbsp;
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NourAtef112&theme=tokyonight)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NourAtef112&theme=radical)&nbsp;
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NourAtef112&theme=vue-dark)
 
 </div>
 
